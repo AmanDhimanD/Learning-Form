@@ -1,0 +1,20 @@
+body {
+    background-image: radial-gradient(circle, rgb(255, 255, 255), rgb(0, 255, 136), rgb(141, 2, 255));
+
+}
+
+.container {
+    text-align: center;
+    padding-top: 80px;
+}
+h1{
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 5px 3px rgb(0, 0, 0);
+}
+.inner{
+    padding: 20px;
+    display: inline-block;
+    border: 0px solid black;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.281);
+}
